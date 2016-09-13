@@ -5,3 +5,4 @@ Git tracks changes of files
 new line
 add a new branch dev
 merge branch 'master' to 'dev'
+Creating a new branch is quick & simple

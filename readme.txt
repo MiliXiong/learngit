@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 new line
 add a new branch dev
+merge branch 'master' to 'dev'

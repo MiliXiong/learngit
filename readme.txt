@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 Third branch.
 Manage branch.
 Git stash.
+user name

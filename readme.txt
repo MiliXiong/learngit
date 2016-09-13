@@ -4,10 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 new line
 add a new branch dev
-<<<<<<< HEAD
-merge branch 'master' to 'dev'
 Creating a new branch is quick and simple
-=======
-merge branch 'master' to 'dev]'
-Creating a new branch is quick and simple
->>>>>>> feature1
